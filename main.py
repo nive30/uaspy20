@@ -1,9 +1,25 @@
-class MainApp():
-    def __init__(self):
-        self.books = []
-
-
-if __name__ == "__main__":
-    app = MainApp()
-    app.run()
+class add_book(): 
+    def init(self): 
+        self.Inputbook = [] 
+    def Inputbook(self): 
+        self.Inputbook += book 
+ 
+class searh_book(): 
+    def init(self): 
+        self.Inputbook = []
+class list_book(): 
+    def init(selfself): 
+        self.Viewbook = [] 
+    def View_book 
+        self.Viewbook = book 
+ 
+class add_book(): 
+    def init(self): 
+        self.Inputbook = [] 
+    def Inputbook(self): 
+        self.Inputbook += book 
+ 
+class searh_book(): 
+    def init(self): 
+        self.Inputbook = []
 
